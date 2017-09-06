@@ -1,2 +1,2 @@
 # BattleTank
-Open world head to head tank battle with ai and adavneced control systems
+Open world head to head tank battle with AI and adavneced control systems
